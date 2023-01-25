@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del precourse de henry
+estoy probando como crear repositorio, descargarlo en pc y editar archivos
